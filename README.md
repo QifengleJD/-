@@ -71,7 +71,7 @@
 pip install pandas numpy matplotlib seaborn scipy
 
 # 运行完整项目脚本
-python 电商用户价值分层_RFM到RFM-I_完整项目.py
+python 电商用户价值分层_RFM到RFM-I.ipynb
 ```
 
 或者按顺序运行 Jupyter Notebook：
